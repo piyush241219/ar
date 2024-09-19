@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ar Gltf
+* source:	https://sketchfab.com/3d-models/ar-gltf-b2654f52a85d4d20b04393de514a68df
+* author:	Saint_Panda (https://sketchfab.com/Saint_Panda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ar Gltf" (https://sketchfab.com/3d-models/ar-gltf-b2654f52a85d4d20b04393de514a68df) by Saint_Panda (https://sketchfab.com/Saint_Panda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
